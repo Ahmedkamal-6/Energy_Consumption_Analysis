@@ -83,18 +83,6 @@ The dashboard allows users to:
 
 ---
 
-## 📈 Example Insights (Sample Findings)
-
-> ⚠️ These are placeholder insights for demonstration purposes.
-
-- Energy consumption shows a steady upward trend over the last 5 years.
-- Residential consumption accounts for the highest percentage of total usage.
-- Peak consumption occurs during summer months.
-- Certain regions demonstrate significantly higher growth rates compared to others.
-- Energy efficiency improvements reduced average per-unit consumption in recent years.
-
----
-
 ## 🎯 Key Learning Outcomes
 
 - Practical experience with end-to-end data analysis workflow  
@@ -105,15 +93,6 @@ The dashboard allows users to:
 
 ---
 
-## 🚀 Future Improvements
-
-- Add predictive forecasting models  
-- Integrate additional datasets (weather, population, etc.)  
-- Enhance KPI tracking with advanced DAX calculations  
-- Deploy dashboard using Power BI for web-based interaction  
-
----
-
 ## 📬 Contact
 
-If you have any feedback or suggestions, feel free to open an issue in this repository.
+If you have any feedback or suggestions, feel free to contact any time 
